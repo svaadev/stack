@@ -10,7 +10,8 @@
       "@/components/*": ["./src/client/components/*"],
       "@/layouts/*": ["./src/client/layouts/*"],
       "@/styles/*": ["./src/client/styles/*"],
-      "@/db/*": ["./src/db/*"]
+      "@/db/*": ["./src/db/*"],
+      "@/server/*": ["./src/server/*"]
     }
   }
 }
