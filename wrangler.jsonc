@@ -6,7 +6,6 @@
     "directory": "./dist",
     "run_worker_first": ["/api/*"],
     "binding": "ASSETS"
-    // "not_found_handling": "404-page"
   },
   "vars": {
     "ENVIRONMENT": "local"
